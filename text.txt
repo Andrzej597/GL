@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 amchelloworldtrsssdddddaaaddddasss ll;alsaafkds;.sda;
 #include <iostream>
  usidn
+=======
+ll;aldfkds;.sda;
+>>>>>>> parent of 9ca2178... Commit for stash
